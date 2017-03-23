@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "flow": "flow check",
+    "eslint": "eslint ."
+  },
+  "devDependencies": {
+    "babel-eslint": "7.2.0",
+    "eslint": "3.18.0",
+    "eslint-plugin-flowtype-errors": "3.0.1",
+    "flow-bin": "0.42.0"
+  },
+  "dependencies": {
+    "react": "15.4.2",
+    "react-dom": "15.4.2"
+  }
+}
